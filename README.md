@@ -1,2 +1,2 @@
 # edensign-admin
-Backend services and CRM
+Eden sign admin portal frontend
